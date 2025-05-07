@@ -6,4 +6,4 @@
 
 <p align="center"> 
                                                                         
-‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎‎ ‎ ‎  ‎ ‎  ‎ ‎ ‎‎ ‎‎   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎‎ ‎ ‎  ‎ ‎  ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎‎  [rentry](https://rentry.co/given) ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ [atabook](https://mio.atabook.org)
+‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎‎ ‎ ‎  ‎ ‎  ‎ ‎ ‎‎ ‎‎   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎‎ ‎ ‎  ‎ ‎  ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎‎  [rentry](https://rentry.co/senseless) ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ [atabook](https://mio.atabook.org)
